@@ -1,7 +1,7 @@
 ---
 title: Jed's Notes
 ---
-![[Pasted image 20260202042925.png]]
+![[Cyberpunk 2077 Screenshot 2020.12.23 - 00.20.15.37.png]]
 Welcome to my notes.
 
 Jed.
