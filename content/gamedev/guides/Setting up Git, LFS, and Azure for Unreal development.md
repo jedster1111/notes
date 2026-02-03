@@ -1,7 +1,6 @@
 ---
 title: Setting up Git, LFS, and Azure for Unreal development
 ---
-# Setting up Git, LFS, and Azure for Unreal development
 Here I'll be showing you my current setup for version control with Unreal Engine.  
 I've been using this for learning game development, so haven't tested this setup with larger teams. 
 But for solo devs, or small teams, this feels like a great way to setup version control for your projects.  
